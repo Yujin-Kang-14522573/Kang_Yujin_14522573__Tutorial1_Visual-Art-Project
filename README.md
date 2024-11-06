@@ -27,7 +27,11 @@ The **Interactive Orchid Art Project** is a digital interactive artwork inspired
 - **Monochromatic Color Scheme**: A serene, meditative color palette evokes the aesthetics of traditional Korean art, keeping focus on form and movement.
 
 ## Screenshots
-Screenshots showcase the artwork’s initial appearance and an example of its dynamic response to mouse interactions.
+
+Here is the artwork’s initial view and an example of its dynamic response to mouse interactions.
+
+![Interactive Orchid Artwork Screenshot](screenshot.JPG)
+
 
 ## Setup
 1. **Install Processing**: Download and install Processing from [Processing.org](https://processing.org/).
