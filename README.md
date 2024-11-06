@@ -30,7 +30,7 @@ The **Interactive Orchid Art Project** is a digital interactive artwork inspired
 
 Here is the artwork’s initial view and an example of its dynamic response to mouse interactions.
 
-![Interactive Orchid Artwork Screenshot](screenshot.JPG)
+![Interactive Orchid Artwork Screenshot](screenshot.jpg)
 
 
 ## Setup
